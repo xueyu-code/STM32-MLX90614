@@ -1,0 +1,11 @@
+MLX90614
+VCC---3.3
+GND
+SCL----PB8
+SDA----PB9
+
+OLED
+GND
+VCC----3.3
+SCL-----PB6
+SDA-----PB7
